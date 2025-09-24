@@ -1,10 +1,8 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  /* config options here */
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   images: {
-    remotePatterns: [new URL('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUYlc456G70wXkzfSb2YKWF_vZLTzslEZpg&s')],
+    domains: ["example.com", "www.pcworld.com", "i.pinimg.com"], 
   },
-};
+}
 
-export default nextConfig;
+module.exports = nextConfig

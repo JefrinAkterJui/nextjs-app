@@ -1,0 +1,85 @@
+{
+  "products":[
+  {
+    "id": 1,
+    "product_name": "UltraBook Pro X15",
+    "category": "Laptop",
+    "brand": "TechNova",
+    "price": 1599,
+    "image": "https://example.com/images/ultrabook-pro-x15.jpg"
+  },
+  {
+    "id": 2,
+    "product_name": "Gaming Beast G17",
+    "category": "Laptop",
+    "brand": "PowerCore",
+    "price": 1999,
+    "image": "https://i.pinimg.com/236x/23/46/96/23469620b65d3de346de73bd6c528a2b.jpg"
+  },
+  {
+    "id": 3,
+    "product_name": "SwiftAir 13",
+    "category": "Laptop",
+    "brand": "AeroLite",
+    "price": 1299,
+    "image": "https://example.com/images/swiftair-13.jpg"
+  },
+  {
+    "id": 4,
+    "product_name": "WorkMate Z14",
+    "category": "Laptop",
+    "brand": "OfficeLine",
+    "price": 999,
+    "image": "https://example.com/images/workmate-z14.jpg"
+  },
+  {
+    "id": 5,
+    "product_name": "CreatorBook X17",
+    "category": "Laptop",
+    "brand": "VisionTech",
+    "price": 1899,
+    "image": "https://example.com/images/creatorbook-x17.jpg"
+  },
+  {
+    "id": 6,
+    "product_name": "NoteFlex 360",
+    "category": "Laptop",
+    "brand": "FlexGear",
+    "price": 1199,
+    "image": "https://example.com/images/noteflex-360.jpg"
+  },
+  {
+    "id": 7,
+    "product_name": "EcoBook Lite",
+    "category": "Laptop",
+    "brand": "GreenCore",
+    "price": 799,
+    "image": "https://example.com/images/ecobook-lite.jpg"
+  },
+  {
+    "id": 8,
+    "product_name": "ThunderPro 16",
+    "category": "Laptop",
+    "brand": "StormForce",
+    "price": 1799,
+    "image": "https://example.com/images/thunderpro-16.jpg"
+  },
+  {
+    "id": 9,
+    "product_name": "Business Edge 14",
+    "category": "Laptop",
+    "brand": "ExecuTech",
+    "price": 1399,
+    "image": "https://example.com/images/business-edge-14.jpg"
+  },
+  {
+    "id": 10,
+    "product_name": "Student AirMini",
+    "category": "Laptop",
+    "brand": "EduCore",
+    "price": 599,
+    "image": "https://example.com/images/student-airmini.jpg"
+  }
+]
+
+}
