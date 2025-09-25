@@ -15,9 +15,7 @@ export interface ProductCardProps {
 
 const ProductPage = async () => {
   const res = await fetch("http://localhost:5000/products",{
-    next:{
-      revalidate: 5
-    }
+    cache: "no-store"
   });
   const products: ProductCardProps['product'][] = await res.json();
 
