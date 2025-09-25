@@ -15,12 +15,12 @@ const GalleryPage = () => {
             height={500}
             className='mx-auto'
         /> */}
-        <Image
+        {/* <Image
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUYlc456G70wXkzfSb2YKWF_vZLTzslEZpg&s" alt="next.js" 
             width={500}
             height={500}
             className='mx-auto'
-        />
+        /> */}
     </div>
   )
 }
